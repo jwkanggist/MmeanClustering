@@ -1,0 +1,195 @@
+# ===================================================================== #
+# Title: Qualcomm Programming Assignment: Problem # 3
+# ================================================
+# Support Python interpreter: python2.7.12 anaconda2-4.1.1
+# 
+# Final update: 2017 May
+# Contributors: Jaewook Kang (jwkang@soundl.ly)
+# ===================================================================== #
+# [ClusteringWorker] The data loading from /Users/jwkangmacpro/Dropbox/job/qualcomm/takehomeexam/MmeanClustering/data/features_32dim_float_22464samples.data
+# [ClusteringWorker] The dim of data vectors = 32
+# [ClusteringWorker] The num of data vectors = 22464
+# [ClusteringWorker] The size of data = 2875392 bytes
+# [ClusteringWorker] initMean is randomly selected from dataset
+# [ClusteringWorker] whose data indices are : [ 1984   735 13362  6978  4585  6118 16691 22264  3665  9256]
+#=========== Iteration # 0 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 269521.538467
+# [ClusteringWorker] # of data in the Cluster 0 = 1181
+# [ClusteringWorker] # of data in the Cluster 1 = 2383
+# [ClusteringWorker] # of data in the Cluster 2 = 1432
+# [ClusteringWorker] # of data in the Cluster 3 = 1119
+# [ClusteringWorker] # of data in the Cluster 4 = 1643
+# [ClusteringWorker] # of data in the Cluster 5 = 2985
+# [ClusteringWorker] # of data in the Cluster 6 = 1890
+# [ClusteringWorker] # of data in the Cluster 7 = 851
+# [ClusteringWorker] # of data in the Cluster 8 = 5430
+# [ClusteringWorker] # of data in the Cluster 9 = 3550
+#=========== Iteration # 1 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 242130.286627
+# [ClusteringWorker] # of data in the Cluster 0 = 1056
+# [ClusteringWorker] # of data in the Cluster 1 = 2445
+# [ClusteringWorker] # of data in the Cluster 2 = 1515
+# [ClusteringWorker] # of data in the Cluster 3 = 1771
+# [ClusteringWorker] # of data in the Cluster 4 = 3381
+# [ClusteringWorker] # of data in the Cluster 5 = 3442
+# [ClusteringWorker] # of data in the Cluster 6 = 2047
+# [ClusteringWorker] # of data in the Cluster 7 = 851
+# [ClusteringWorker] # of data in the Cluster 8 = 5956
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 2 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 227139.244271
+# [ClusteringWorker] # of data in the Cluster 0 = 921
+# [ClusteringWorker] # of data in the Cluster 1 = 2314
+# [ClusteringWorker] # of data in the Cluster 2 = 1644
+# [ClusteringWorker] # of data in the Cluster 3 = 1765
+# [ClusteringWorker] # of data in the Cluster 4 = 3977
+# [ClusteringWorker] # of data in the Cluster 5 = 3404
+# [ClusteringWorker] # of data in the Cluster 6 = 2028
+# [ClusteringWorker] # of data in the Cluster 7 = 856
+# [ClusteringWorker] # of data in the Cluster 8 = 5555
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 3 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 221690.768433
+# [ClusteringWorker] # of data in the Cluster 0 = 910
+# [ClusteringWorker] # of data in the Cluster 1 = 2185
+# [ClusteringWorker] # of data in the Cluster 2 = 1685
+# [ClusteringWorker] # of data in the Cluster 3 = 1610
+# [ClusteringWorker] # of data in the Cluster 4 = 4451
+# [ClusteringWorker] # of data in the Cluster 5 = 3360
+# [ClusteringWorker] # of data in the Cluster 6 = 2015
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 5389
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 4 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 219706.467792
+# [ClusteringWorker] # of data in the Cluster 0 = 918
+# [ClusteringWorker] # of data in the Cluster 1 = 2101
+# [ClusteringWorker] # of data in the Cluster 2 = 1675
+# [ClusteringWorker] # of data in the Cluster 3 = 1447
+# [ClusteringWorker] # of data in the Cluster 4 = 4856
+# [ClusteringWorker] # of data in the Cluster 5 = 3345
+# [ClusteringWorker] # of data in the Cluster 6 = 2008
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 5255
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 5 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 218769.269123
+# [ClusteringWorker] # of data in the Cluster 0 = 922
+# [ClusteringWorker] # of data in the Cluster 1 = 2127
+# [ClusteringWorker] # of data in the Cluster 2 = 1646
+# [ClusteringWorker] # of data in the Cluster 3 = 1327
+# [ClusteringWorker] # of data in the Cluster 4 = 5157
+# [ClusteringWorker] # of data in the Cluster 5 = 3287
+# [ClusteringWorker] # of data in the Cluster 6 = 2002
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 5137
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 6 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 218207.797222
+# [ClusteringWorker] # of data in the Cluster 0 = 921
+# [ClusteringWorker] # of data in the Cluster 1 = 2161
+# [ClusteringWorker] # of data in the Cluster 2 = 1598
+# [ClusteringWorker] # of data in the Cluster 3 = 1249
+# [ClusteringWorker] # of data in the Cluster 4 = 5431
+# [ClusteringWorker] # of data in the Cluster 5 = 3207
+# [ClusteringWorker] # of data in the Cluster 6 = 1992
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 5046
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 7 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 217754.101063
+# [ClusteringWorker] # of data in the Cluster 0 = 923
+# [ClusteringWorker] # of data in the Cluster 1 = 2234
+# [ClusteringWorker] # of data in the Cluster 2 = 1509
+# [ClusteringWorker] # of data in the Cluster 3 = 1244
+# [ClusteringWorker] # of data in the Cluster 4 = 5621
+# [ClusteringWorker] # of data in the Cluster 5 = 3119
+# [ClusteringWorker] # of data in the Cluster 6 = 1988
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4967
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 8 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 217341.310515
+# [ClusteringWorker] # of data in the Cluster 0 = 920
+# [ClusteringWorker] # of data in the Cluster 1 = 2338
+# [ClusteringWorker] # of data in the Cluster 2 = 1410
+# [ClusteringWorker] # of data in the Cluster 3 = 1243
+# [ClusteringWorker] # of data in the Cluster 4 = 5795
+# [ClusteringWorker] # of data in the Cluster 5 = 3026
+# [ClusteringWorker] # of data in the Cluster 6 = 1984
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4889
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 9 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216898.203193
+# [ClusteringWorker] # of data in the Cluster 0 = 920
+# [ClusteringWorker] # of data in the Cluster 1 = 2394
+# [ClusteringWorker] # of data in the Cluster 2 = 1369
+# [ClusteringWorker] # of data in the Cluster 3 = 1252
+# [ClusteringWorker] # of data in the Cluster 4 = 5928
+# [ClusteringWorker] # of data in the Cluster 5 = 2945
+# [ClusteringWorker] # of data in the Cluster 6 = 1980
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4817
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 10 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216570.87475
+# [ClusteringWorker] # of data in the Cluster 0 = 917
+# [ClusteringWorker] # of data in the Cluster 1 = 2382
+# [ClusteringWorker] # of data in the Cluster 2 = 1417
+# [ClusteringWorker] # of data in the Cluster 3 = 1264
+# [ClusteringWorker] # of data in the Cluster 4 = 5995
+# [ClusteringWorker] # of data in the Cluster 5 = 2883
+# [ClusteringWorker] # of data in the Cluster 6 = 1978
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4769
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 11 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216405.24105
+# [ClusteringWorker] # of data in the Cluster 0 = 917
+# [ClusteringWorker] # of data in the Cluster 1 = 2366
+# [ClusteringWorker] # of data in the Cluster 2 = 1478
+# [ClusteringWorker] # of data in the Cluster 3 = 1269
+# [ClusteringWorker] # of data in the Cluster 4 = 6003
+# [ClusteringWorker] # of data in the Cluster 5 = 2873
+# [ClusteringWorker] # of data in the Cluster 6 = 1975
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4724
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 12 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216315.979067
+# [ClusteringWorker] # of data in the Cluster 0 = 914
+# [ClusteringWorker] # of data in the Cluster 1 = 2350
+# [ClusteringWorker] # of data in the Cluster 2 = 1538
+# [ClusteringWorker] # of data in the Cluster 3 = 1278
+# [ClusteringWorker] # of data in the Cluster 4 = 5991
+# [ClusteringWorker] # of data in the Cluster 5 = 2873
+# [ClusteringWorker] # of data in the Cluster 6 = 1976
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4685
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 13 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216260.928587
+# [ClusteringWorker] # of data in the Cluster 0 = 914
+# [ClusteringWorker] # of data in the Cluster 1 = 2330
+# [ClusteringWorker] # of data in the Cluster 2 = 1596
+# [ClusteringWorker] # of data in the Cluster 3 = 1294
+# [ClusteringWorker] # of data in the Cluster 4 = 5964
+# [ClusteringWorker] # of data in the Cluster 5 = 2868
+# [ClusteringWorker] # of data in the Cluster 6 = 1977
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4662
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+#=========== Iteration # 14 ============
+# [ClusteringWorker] Sum of Euclidian Distance from all data = 216231.969425
+# [ClusteringWorker] # of data in the Cluster 0 = 913
+# [ClusteringWorker] # of data in the Cluster 1 = 2317
+# [ClusteringWorker] # of data in the Cluster 2 = 1631
+# [ClusteringWorker] # of data in the Cluster 3 = 1301
+# [ClusteringWorker] # of data in the Cluster 4 = 5944
+# [ClusteringWorker] # of data in the Cluster 5 = 2868
+# [ClusteringWorker] # of data in the Cluster 6 = 1979
+# [ClusteringWorker] # of data in the Cluster 7 = 859
+# [ClusteringWorker] # of data in the Cluster 8 = 4652
+# [ClusteringWorker] # of data in the Cluster 9 = 0
+
